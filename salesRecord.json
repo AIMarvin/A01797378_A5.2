@@ -1,0 +1,26 @@
+[
+    {
+        "Product": "Agua",
+        "Quantity": 2
+    },
+    {
+        "Product": "Pan",
+        "Quantity": 1
+    },
+    {
+        "Product": "Leche",
+        "Quantity": 3
+    },
+    {
+        "Product": "Huevos",
+        "Quantity": 1
+    },
+    {
+        "Product": "Unknown",
+        "Quantity": 1
+    },
+    {
+        "Product": "Agua",
+        "Quantity": "invalid"
+    }
+]
