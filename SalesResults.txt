@@ -1,3 +1,11 @@
 TOTAL SALES RESULT
-Total Cost: $130.00
-Execution Time: 0.001539 seconds
+Total Cost: $2,481.86
+Execution Time: 0.002597 seconds
+
+TOTAL SALES RESULT
+Total Cost: $166,568.23
+Execution Time: 0.001517 seconds
+
+TOTAL SALES RESULT
+Total Cost: $165,235.37
+Execution Time: 0.002053 seconds
